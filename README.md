@@ -124,4 +124,4 @@ Feel free to get in touch with me:
 - **Twitter:** [Twitter Profile](https://x.com/deckoruzze)
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/derick-ogutu-636065202)
 
-Thank you for using STUDYROOM! We hope it enhances your learning experience.
+Thank you for using STUDYROOM! I hope it enhances your learning experience.
