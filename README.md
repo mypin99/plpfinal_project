@@ -1,17 +1,32 @@
 #STUDYROOM.
 ##Table of Contents
 
-[Project Overview](#project-overview)
-[Features](#features)
-[Technologies Used](#technologies-used)
-[Installation](#installation)
-[Usage](#usage)
-[Screenshots](#screenshots)
-[Live Demo](#live-demo)
-[Future Enhancements](#future-enhancements)
-[Contributors](#contributors)
-[Contact Information](#contact-information)
-
+- [Project Overview](#project-overview)
+- [Features](#features)
+  - [Home Page](#home-page)
+  - [About](#about)
+  - [New Post](#new-post)
+  - [Profile](#profile)
+  - [Logout](#logout)
+  - [Admin](#admin)
+  - [Register](#register)
+  - [Contact Information](#contact-information)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+  - [Home Page](#home-page-1)
+  - [About Page](#about-page)
+  - [New Post Page](#new-post-page)
+  - [Profile Page](#profile-page)
+  - [Admin Page](#admin-page)
+  - [Update Section](#update-section)
+  - [Registration Form](#registration-form)
+  - [Individual Post](#individual-post)
+- [Live Demo](#live-demo)
+- [Future Enhancements](#future-enhancements)
+- [Contributors](#contributors)
+- [Contact Information](#contact-information-1)
 
 
 ##Project Overview
