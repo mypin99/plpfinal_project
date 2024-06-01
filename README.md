@@ -122,6 +122,6 @@ Feel free to get in touch with me:
 - **Author:** Derick Ogutu
 - **Email:** ogutuderick4@gmail.com
 - **Twitter:** [Twitter Profile](https://x.com/deckoruzze)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/derick-ogutu-636065202)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/derick-ogutu-636065202)
 
 Thank you for using STUDYROOM! We hope it enhances your learning experience.
