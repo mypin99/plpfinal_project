@@ -90,7 +90,7 @@ Admin users can add, edit, and delete content through the admin panel.
 ![Individual Post](screenshots/section%20highligting%20posts%20made%20by%20an%20individual.png)
 
 ##Live Demo
-[![Watch the Video Demo](https://www.loom.com/share/3f22e10d0897439faa822899f09feaf2?sid=cc2bfa3c-a27f-491c-9d72-d35a3b584948)]
+[![Watch the Video Demo](https://www.loom.com/share/3f22e10d0897439faa822899f09feaf2?sid=cc2bfa3c-a27f-491c-9d72-d35a3b584948/maxresdefault.jpg)](https://www.loom.com/share/3f22e10d0897439faa822899f09feaf2?sid=cc2bfa3c-a27f-491c-9d72-d35a3b584948)
 
 ##Future Enhancements
 In the future, I plan to enhance my STUDYROOM blog with the following:
